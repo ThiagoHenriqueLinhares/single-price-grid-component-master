@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: hsl(204, 43%, 93%);
+}
+
+main {
+    background-color: white;
+}
+
+.preco {
+    background-color: hsl(179, 76%, 33%);
+}
+
+.inscricao {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.porque {
+    background-color: hsl(179, 62%, 43%);
+}
